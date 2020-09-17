@@ -38,20 +38,20 @@
 # Instalação e Inicialização
 
 ```
-git clone
+git clone https://github.com/mourabraz/projectmanager-frontend.git
 ```
 
 e
 
 ```
-cd /projectmanager
+cd /projectmanager-frontend
 npm install
 ```
 
 ou
 
 ```
-cd /projectmanager
+cd /projectmanager-frontend
 yarn
 ```
 
