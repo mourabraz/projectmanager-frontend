@@ -48,7 +48,8 @@ const Dashboard: React.FC = () => {
               <br />
               <i>Teste com conta existente:</i>
               <br />
-              <strong>email - </strong> carlos@teste.com
+              <strong>email - </strong> carlos@teste.com <i>ou</i>{' '}
+              rico@teste.com
               <br />
               <strong>senha - </strong> 12345678
             </p>
