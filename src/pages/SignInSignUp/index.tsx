@@ -38,7 +38,7 @@ const SignInSignUp: React.FC = () => {
           </Tabs>
         </Content>
 
-        <a href="forgot">Forgot your password</a>
+        <a href="#">Forgot your password</a>
       </Container>
     </>
   );

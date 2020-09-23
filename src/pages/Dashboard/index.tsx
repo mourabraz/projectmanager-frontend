@@ -35,6 +35,15 @@ const Dashboard: React.FC = () => {
               com informações verdadeiras!
             </strong>
           </p>
+          <p>
+            Link do GitHub:{' '}
+            <a
+              href="https://github.com/mourabraz/projectmanager-frontend"
+              target="blank"
+            >
+              https://github.com/mourabraz/projectmanager-frontend
+            </a>
+          </p>
           <p>O consumo da fila para o envio de emails está desligado.</p>
 
           {!user && (
@@ -59,6 +68,11 @@ const Dashboard: React.FC = () => {
             <br />
             <br />
             <i>Os dados serão apagados e recarregados quando necessário.</i>
+            <br />
+            <i>
+              * Ao testar o sistema, peço a gentileza de não inserir conteúdo
+              inapropriado.
+            </i>
           </p>
         </AlertaInfo>
 
